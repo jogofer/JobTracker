@@ -1,2 +1,2 @@
 # JobTracker
-App designed to keep track of the jobs that user has applied to
+App designed to keep track of the jobs that any user has applied to
